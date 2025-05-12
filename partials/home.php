@@ -26,7 +26,7 @@ require_once './partials/preloader.php';
     
     $slider_content = [
         [
-            "background" => "img/slider.jpg",
+            "background" => "img/slider2.jpg",
             "slider_title" => "We Provide <span>Medical</span> Services That You Can <span>Trust!</span>",
             "slider_description" => "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris sed nisl pellentesque, faucibus libero eu, gravida quam.",
             "button_1" => "Get Appointment",
@@ -34,14 +34,14 @@ require_once './partials/preloader.php';
         ],
         [
             "background" => "img/slider.jpg",
-            "slider_title" => "ljljldjf lk ",
+            "slider_title" => "We Provide <span>Medical</span> Services That You Can <span>Trust!</span>",
             "slider_description" => "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris sed nisl pellentesque, faucibus libero eu, gravida quam.",
             "button_1" => "Get Appointment",
             "button_2" => "Learn More",
         ],
         [
-            "background" => "img/slider.jpg",
-            "slider_title" => "sdsadfsdf   dasf",
+            "background" => "img/slider3.jpg",
+            "slider_title" => "We Provide <span>Medical</span> Services That You Can <span>Trust!</span>",
             "slider_description" => "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris sed nisl pellentesque, faucibus libero eu, gravida quam.",
             "button_1" => "Get Appointment",
             "button_2" => "Learn More",
